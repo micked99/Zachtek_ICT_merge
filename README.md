@@ -4,4 +4,6 @@ No powerswitch of GPS implemented as in the original fw for the WSPR-TX Pico, al
 
 Use board Arduino Pro or pro mini @ 8Mhz 3,3V to upload the code - see pic
 
+More info about setup here: https://github.com/micked99/ICT-Wspr-complete-setup
+
 <img width="886" height="598" alt="Skärmbild 2026-10-21 221834" src="https://github.com/user-attachments/assets/e707bbe8-e71c-4f54-bd70-73a7ec2cd2c1" />
