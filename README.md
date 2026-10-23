@@ -1,6 +1,6 @@
 A modified version of my ict code working on the Zachtek WSPR-TX Pico wspr hab - https://www.zachtek.com/1028
 
-No powerswitch of GPS implemented as in the original fw for for the WSPR-TX Pico, all devices on at all time - board takes about 45-55mA stb-tx
+No powerswitch of GPS implemented as in the original fw for the WSPR-TX Pico, all devices on at all time - board takes about 45-55mA stb-tx
 
 Use board Arduino Pro or pro mini @ 8Mhz 3,3V to upload the code - see pic
 
